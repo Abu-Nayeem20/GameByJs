@@ -1,0 +1,17 @@
+
+@media(max-width: 376px){
+		.our-twon{
+			font-size: 30px;
+		}
+		.our-tlost{
+			font-size: 30px;
+		}
+		.main-body{
+			width: 300px;
+		}
+		button{
+			padding: 15px 30px;
+			font-size: 18px;
+		}
+		
+}
